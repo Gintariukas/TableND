@@ -1,0 +1,39 @@
+body {
+    margin: auto;
+}
+
+table, td, th {
+    border: 1px solid #ddd;
+    text-align: left;
+    border-left: 10px;
+    border-top: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 40px;
+    margin: auto;
+    background-color: transparent;
+    color: grey;
+}
+
+th, td {
+    padding: 15px;
+    border-bottom: 3px solid #ddd;
+}
+
+#back{
+    height: 350px;
+    padding: 10px;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/90/57/08/9057085f1d875f6bf3e3ed78bb8fde5b.jpg);
+    background-size: cover;
+}
+.green-line {
+    background-color: rgba(0,102,0, 0.6);
+    color: white;
+}
+
+.white-line {
+    background-color:white;
+    color: blue;
+}
